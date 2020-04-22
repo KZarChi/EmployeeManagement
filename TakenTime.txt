@@ -1,0 +1,3 @@
+Start Time : 10:00 AM
+Finish Time : 4:00 PM
+Total Time Taken : 6:00
