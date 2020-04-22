@@ -1,0 +1,11 @@
+CREATE INDEX EMPLOYEE_IDX1 ON EMPLOYEE (
+
+      EMP_ID
+
+    , EMP_NAME
+
+    );
+
+
+
+COMMIT;
